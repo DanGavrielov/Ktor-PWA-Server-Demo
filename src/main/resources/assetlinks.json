@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.giniapps.twatesingsuite",
+      "package_name": "YOU_PACKAGE_NAME",
       "sha256_cert_fingerprints": [
-        "74:98:D8:F0:12:F5:72:EE:36:F2:E3:87:20:51:B5:40:3A:04:8A:FA:AE:07:37:8A:70:9F:B2:FA:CB:61:94:A5"
+        "YOUR_SHA256_SIGNATURE"
       ]
     }
   },
@@ -17,9 +17,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.giniapps.twatesingsuite",
+      "package_name": "YOU_PACKAGE_NAME",
       "sha256_cert_fingerprints": [
-        "74:98:D8:F0:12:F5:72:EE:36:F2:E3:87:20:51:B5:40:3A:04:8A:FA:AE:07:37:8A:70:9F:B2:FA:CB:61:94:A5"
+        "YOUR_SHA256_SIGNATURE"
       ]
     }
   }

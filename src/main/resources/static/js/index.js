@@ -25,7 +25,8 @@ function displayReceivedData(msg) {
 }
 
 window.addEventListener("message", function (event) {
-    if (!event.origin.includes("com.giniapps.twatesingsuite")) return;
+    // optionally check for the origin to be your app
+    if (!event.origin.includes("YOUR_PACKAGE_NAME")) return;
 
     // get the port then use it for communication.
     port = event.ports[0];
